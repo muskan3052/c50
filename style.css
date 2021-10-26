@@ -1,0 +1,21 @@
+.Header {
+    background-color:aqua;
+    display:flex;
+    justify-content:space-between;
+}
+
+.Footer{
+    background-color:burlywood;
+    display:flex;
+    justify-content:end;
+}
+
+.Grid {
+    background-color:cornflowerblue;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+h1,p {
+    color:black
+}
